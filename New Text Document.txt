@@ -1,0 +1,20 @@
+python -m venv venv/
+.\venv\Scripts\activate
+
+
+pip freeze > requirements.txt
+
+echo web: app.py >Procfile
+
+
+heroku login
+
+cd my-project/
+$ git init
+$ heroku git:remote -a m5forcasting
+
+ git add .
+$ git commit -am "make it better"
+$ git push heroku master
+
+web: app.py 
