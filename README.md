@@ -7,4 +7,4 @@ Blog : https://medium.com/analytics-vidhya/m5-forecasting-accuracy-9fbbb28e0e6f
 
 Deployment : https://casestudym5.herokuapp.com/index
 
-Demo : https://drive.google.com/file/d/1RF6P7TK6zeGfKrK3N-sXCsPVSwFiO06S/view?usp=sharing
+Demo : https://drive.google.com/file/d/1RLBsFp8U6cgyb5o_t9k5LS9ARD1shhRg/view?usp=sharing
